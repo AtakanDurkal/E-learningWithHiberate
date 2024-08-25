@@ -5,8 +5,10 @@ Automation for understanding basics of JPA Hibernate Where I used @NamedQueries,
             *Profiles 
             *Dependency Injection
             *@Qualifier - @Primary 
+            *Mapstruct @Mapper
             *AOP 
             *DTO pattern 
             *RestAPI
             *Records 
             *Optionals
+           
