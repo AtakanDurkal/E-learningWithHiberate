@@ -8,4 +8,5 @@ Automation for understanding basics of JPA Hibernate Where I used @NamedQueries,
             *AOP 
             *DTO pattern 
             *RestAPI
-            
+            *Records 
+            *Optionals
